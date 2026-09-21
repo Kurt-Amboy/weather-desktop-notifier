@@ -15,17 +15,29 @@ A lightweight Python background script that fetches real-time weather metrics fr
 ## How to Run Locally
 
 1. Clone this repository:
-   ```bash
-   git clone [https://github.com/Kurt-Amboy/weather-desktop-notifier.git](https://github.com/Kurt-Amboy/weather-desktop-notifier.git)
+
+```shell
+   git clone https://github.com/Kurt-Amboy/weather-desktop-notifier.git
+```
+
+2. Navigate into the project folder:
+
+```shell
    cd weather-desktop-notifier
-   ```
+```
 
-2. Install dependencies:
-   ```bash
+3. Install dependencies:
+
+```shell
    pip install -r requirements.txt
-   ```
+```
 
-3. Run the script:
-   ```bash
+4. Run the script:
+
+```shell
    python weather_bot.py
+<<<<<<< Updated upstream
    ```# weather-desktop-notifier
+=======
+```
+>>>>>>> Stashed changes

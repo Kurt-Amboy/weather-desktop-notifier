@@ -4,8 +4,8 @@ from plyer import notification
 
 # 1. Set your location coordinates (Latitude & Longitude)
 # Example coordinates (Change these to your city's lat/lon!):
-LATITUDE = 25.79  
-LONGITUDE = 55.98 
+LATITUDE = 25.74
+LONGITUDE = 55.90
 
 # 2. Build the Open-Meteo API URL
 WEATHER_URL = f"https://api.open-meteo.com/v1/forecast?latitude={LATITUDE}&longitude={LONGITUDE}&current_weather=true"
