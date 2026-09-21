@@ -29,4 +29,3 @@ A lightweight Python background script that fetches real-time weather metrics fr
    ```bash
    python weather_bot.py
    ```# weather-desktop-notifier
-A simple weather notification bot.
