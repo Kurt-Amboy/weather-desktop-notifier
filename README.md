@@ -36,8 +36,4 @@ A lightweight Python background script that fetches real-time weather metrics fr
 
 ```shell
    python weather_bot.py
-<<<<<<< Updated upstream
-   ```# weather-desktop-notifier
-=======
 ```
->>>>>>> Stashed changes
